@@ -1,5 +1,5 @@
 # sc2006
-clean data
+clean data folder
 
 things need to do:
 1. extract food brand from the text message
